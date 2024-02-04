@@ -1,8 +1,8 @@
 <h1 align="center"> Projeto Chat de Conversa</h1>
 
 <p align="center">
-
-</p>Chat de mensagens em tempo real, desenvolvido em HTML, CSS e JavaScript.
+Chat de mensagens em tempo real, desenvolvido em HTML, CSS e JavaScript.
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
